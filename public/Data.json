@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name": "Nihad Kabir",
+        "speciality": "Corporate Law",
+        "experience": "20+ years",
+        "licenseNumber": "BD-001",
+        "fee": 15000,
+        "availability": [
+            "Sunday",
+            "Monday",
+            "Wednesday"
+        ],
+        "image": "https://i.ibb.co.com/cShvVGsV/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Nasirud Doulah",
+        "speciality": "International Arbitration",
+        "experience": "22 years",
+        "licenseNumber": "BD-002",
+        "fee": 18000,
+        "availability": [
+            "Monday",
+            "Tuesday",
+            "Thursday"
+        ],
+        "image": "https://i.ibb.co.com/PG3wGPgK/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tanjib-Ul Alam",
+        "speciality": "Telecom Law",
+        "experience": "18 years",
+        "licenseNumber": "BD-003",
+        "fee": 12000,
+        "availability": [
+            "Sunday",
+            "Tuesday",
+            "Friday"
+        ],
+        "image": "https://i.ibb.co.com/HLd0BK8B/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sharif Bhuiyan",
+        "speciality": "Finance Law",
+        "experience": "19 years",
+        "licenseNumber": "BD-004",
+        "fee": 14000,
+        "availability": [
+            "Monday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "image": "https://i.ibb.co.com/HfJtrMNw/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Syed Afzal Hasan Uddin",
+        "speciality": "Corporate Law",
+        "experience": "20 years",
+        "licenseNumber": "BD-005",
+        "fee": 13000,
+        "availability": [
+            "Sunday",
+            "Tuesday",
+            "Thursday"
+        ],
+        "image": "https://i.ibb.co.com/S4X8N3kW/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sara Hossain",
+        "speciality": "Human Rights Law",
+        "experience": "25+ years",
+        "licenseNumber": "BD-006",
+        "fee": 10000,
+        "availability": [
+            "Monday",
+            "Wednesday",
+            "Friday"
+        ],
+        "image": "https://i.ibb.co.com/NnJXfHqv/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Syeda Rizwana Hasan",
+        "speciality": "Environmental Law",
+        "experience": "20+ years",
+        "licenseNumber": "BD-007",
+        "fee": 9000,
+        "availability": [
+            "Sunday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "image": "https://i.ibb.co.com/0RWsRqdt/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sajed Sami Ahammad",
+        "speciality": "Litigation",
+        "experience": "15 years",
+        "licenseNumber": "BD-008",
+        "fee": 11000,
+        "availability": [
+            "Monday",
+            "Tuesday",
+            "Friday"
+        ],
+        "image": "https://i.ibb.co.com/G3RmWJ9K/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Shajib Mahmood Alam",
+        "speciality": "Banking Law",
+        "experience": "17 years",
+        "licenseNumber": "BD-009",
+        "fee": 13500,
+        "availability": [
+            "Sunday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "image": "https://i.ibb.co.com/gL4Pv9gz/9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Tania Amir",
+        "speciality": "Arbitration",
+        "experience": "20 years",
+        "licenseNumber": "BD-010",
+        "fee": 14500,
+        "availability": [
+            "Tuesday",
+            "Thursday",
+            "Saturday"
+        ],
+        "image": "https://i.ibb.co.com/sdz83SGt/10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Al Amin Rahman",
+        "speciality": "Criminal Defense",
+        "experience": "16 years",
+        "licenseNumber": "BD-011",
+        "fee": 12000,
+        "availability": [
+            "Monday",
+            "Wednesday",
+            "Friday"
+        ],
+        "image": "https://i.ibb.co.com/dJBFn9P9/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Monjil Morshed",
+        "speciality": "Public Interest Law",
+        "experience": "18 years",
+        "licenseNumber": "BD-012",
+        "fee": 10500,
+        "availability": [
+            "Sunday",
+            "Tuesday",
+            "Thursday"
+        ],
+        "image": "https://i.ibb.co.com/NgjGTHFc/12.jpg"
+    }
+]
